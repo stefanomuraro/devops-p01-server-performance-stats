@@ -6,10 +6,8 @@ Project URL: https://roadmap.sh/projects/server-stats
 
 ## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/stefanomuraro/devops-p01-server-performance-stats.git
-   ```
+1. **Download the script:**
+   Download `server-stats.sh` to your server.
 
 2. **Grant execution permissions:**
    ```bash
